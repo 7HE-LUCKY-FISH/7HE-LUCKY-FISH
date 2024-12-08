@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Bryan Lin</h1>
-<h3 align="center">Computer Engineering in the Bay Area</h3>
+<h3 align="center">College Student learning chip design and backend development</h3>
 
 - 🌱 I’m currently learning **Go, PyTorch**
 
