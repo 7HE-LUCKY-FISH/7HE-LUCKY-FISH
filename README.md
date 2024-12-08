@@ -1,6 +1,7 @@
 # 💫 About Me: 
 Computer Engineer learning hardware design and backend development
 - 🌱 I’m currently learning **Go, PyTorch, Verilog**
+- 🏗️ I'm currently working on **BTD6 Game/Economy Tracker**
 - 📫 How to reach me **bryanlin404@gmail.com**
 
 
