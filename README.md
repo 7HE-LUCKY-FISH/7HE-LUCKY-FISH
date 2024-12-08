@@ -1,4 +1,5 @@
-# 💫 About Me: Computer Engineer learning hardware design and backend development
+# 💫 About Me: 
+Computer Engineer learning hardware design and backend development
 - 🌱 I’m currently learning **Go, PyTorch, Verilog**
 - 📫 How to reach me **bryanlin404@gmail.com**
 
