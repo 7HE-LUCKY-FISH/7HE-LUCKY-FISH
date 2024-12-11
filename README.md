@@ -12,11 +12,7 @@ Always looking to do more and improve
 
 
 # 📊 GitHub Stats:
-
-<p align="center">
 ![7HE-LUCKY-FISH's Streak](https://github-readme-streak-stats.herokuapp.com/?user=7HE-LUCKY-FISH&theme=solarized-dark&hide_border=true)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7HE-LUCKY-FISH&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="GitHub Top Languages" />
-</p>
-
+![7HE-LUCKY-FISH's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7HE-LUCKY-FISH&theme=solarized-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
