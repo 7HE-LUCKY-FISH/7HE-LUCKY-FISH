@@ -4,7 +4,6 @@ Computer Engineer learning hardware design and backend development
 Always looking to do more and improve
 - 🌱 I’m currently learning **Go, PyTorch, Verilog**
 - 🏗️ I'm currently working on **BTD6 Game/Economy Tracker**
-- Working on a C++ control for LEDs with control on taskbar tray
 - 📫 How to reach me **bryanlin404@gmail.com**
 
 
