@@ -1,5 +1,5 @@
 # 💫 About Me: 
-Computer Engineer learning hardware design and backend development
+Computer Engineering student specializing in backend infrastructure and development
  - I’m currently learning **Go, PyTorch, Verilog**
 
 
