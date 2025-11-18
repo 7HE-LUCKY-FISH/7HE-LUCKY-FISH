@@ -9,7 +9,6 @@ Computer Engineering student specializing in backend infrastructure and applicat
 
 
 # GitHub Stats:
-![7HE-LUCKY-FISH's Streak](https://github-readme-streak-stats.herokuapp.com/?user=7HE-LUCKY-FISH&theme=solarized-dark&hide_border=true)
 ![7HE-LUCKY-FISH's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7HE-LUCKY-FISH&theme=solarized-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
