@@ -1,5 +1,5 @@
 # 💫 About Me: 
-Computer Engineering student specializing in backend infrastructure and application development
+Computer Engineer specializing in backend infrastructure and application development
  - I’m currently learning **Go, K8, Java**
 
 
